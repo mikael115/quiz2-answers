@@ -1,0 +1,36 @@
+p {
+  text-align:center;
+  margin: 8px;
+  /*margin-top: 1px;*/
+  color: #008080;
+  font-size: large;
+  font-weight: bold;
+}
+
+.explanation {
+  font-size: 17px;
+}
+
+.uguisu {
+  text-align:center;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+.rink {
+  text-align:center;
+  margin-top: 15px;
+}
+
+.challenge {
+  text-align:center;
+  color: #008080;
+  font-weight: bold;
+  text-decoration: underline;
+  margin-top: 25px;
+  margin-bottom: 30px;
+}
+
+a {
+  color: #008080;
+}
